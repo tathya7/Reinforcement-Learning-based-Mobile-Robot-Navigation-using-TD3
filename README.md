@@ -30,7 +30,7 @@ Training Simulation : https://youtu.be/t24d_GHjucQ
 
     ```
     mkdir -p <workspace name>/src
-    " Paste both the packages in src directory (td3_pkg and velodyne_simulator) "
+    " Paste both the packages in src directory (td3_pkg and velodyne_simulator) or use  git clone https://github.com/tathya7/Reinforcement-Learning-based-Mobile-Robot-Navigation-using-TD3.git"
     colcon build
     source install/setup.bash
     ```
