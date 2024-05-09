@@ -24,7 +24,7 @@ Training Simulation : https://youtu.be/t24d_GHjucQ
     pip install <dependency name>
     ```
 
-3. If your current version is not supported, then you can use the docker file provided in the repo to create a container and in that container, cloning the repo and building it will make it run. Following readme file in rlearning_docker first. Then perform the following from step 2.
+3. If your current version is not supported, then you can use the docker file provided in the repo to create a container and in that container, cloning the repo and building it will make it run. Follow the readme file in rlearning_docker first. Then perform the following from step 2.
 
 2. Download two packages provided or use the github link to clone the repo    
     ```
