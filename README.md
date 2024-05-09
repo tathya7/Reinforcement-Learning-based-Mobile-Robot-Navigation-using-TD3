@@ -26,14 +26,7 @@ Training Simulation : https://youtu.be/t24d_GHjucQ
 
 3. If your current version is not supported, then you can use the docker file provided in the repo to create a container and in that container, cloning the repo and building it will make it run. Follow the readme file in rlearning_docker first. Then perform the following from step 2.
 
-2. Download two packages provided or use the github link to clone the repo    
-    ```
-    git clone https://github.com/tathya7/Reinforcement-Learning-based-Mobile-Robot-Navigation-using-TD3.git
-    ```
-    - **td3_pkg** contains the original source code and gazebo environment
-    - **velodyne_simulator** is used for RViz Visualization of Velodyne LiDAR
-
-3. Create a workspace, copy the package into the workspace and build, it should complelety build.
+2. Create a workspace, copy the package into the workspace and build, it should complelety build.
 
     ```
     mkdir -p <workspace name>/src
@@ -41,13 +34,19 @@ Training Simulation : https://youtu.be/t24d_GHjucQ
     colcon build
     source install/setup.bash
     ```
+3. Download two packages provided or use the github link to clone the repo    
+    ```
+    git clone https://github.com/tathya7/Reinforcement-Learning-based-Mobile-Robot-Navigation-using-TD3.git
+    ```
+    - **td3_pkg** contains the original source code and gazebo environment
+    - **velodyne_simulator** is used for RViz Visualization of Velodyne LiDAR
 
-4. For Training the model
+5. For Training the model
     ```
     ros2 launch td3_pkg training_simulation.launch.py
     ```
 
-5. For Testing the model which uses the trained model 
+6. For Testing the model which uses the trained model 
     ```
     ros2 launch td3_pkg test_simulation.launch.py
     ```
