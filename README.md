@@ -28,7 +28,7 @@ Training Simulation : https://youtu.be/t24d_GHjucQ
 
 2. Download two packages provided or use the github link to clone the repo    
     ```
-    https://github.com/tathya7/Reinforcement-Learning-based-Mobile-Robot-Navigation-using-TD3.git
+    git clone https://github.com/tathya7/Reinforcement-Learning-based-Mobile-Robot-Navigation-using-TD3.git
     ```
     - **td3_pkg** contains the original source code and gazebo environment
     - **velodyne_simulator** is used for RViz Visualization of Velodyne LiDAR
