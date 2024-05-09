@@ -54,6 +54,11 @@ sudo apt-get update
 sudo apt install gazebo
 ```
 
+## Install RViz
+```sh
+sudo apt-get update
+sudo apt install rviz
+```
 
 ## Install Dependencies
 ```sh
