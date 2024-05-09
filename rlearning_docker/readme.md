@@ -57,7 +57,8 @@ sudo apt install gazebo
 ## Install RViz
 ```sh
 sudo apt-get update
-sudo apt install rviz
+sudo apt install ros-humble-rviz
+
 ```
 
 ## Install Dependencies
