@@ -51,10 +51,7 @@ Training Simulation : https://youtu.be/t24d_GHjucQ
     ros2 launch td3_pkg test_simulation.launch.py
     ```
     
-7. For running the DQN script
-    ```
-    ros2 runs td3_pkg dqn_basic.py
-    ```
+
     
 
 ### Notes
