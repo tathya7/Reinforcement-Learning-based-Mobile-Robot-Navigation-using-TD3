@@ -33,7 +33,7 @@ This video, shows the testing of the trained model, where it can be seen, the ro
 
     ```
     mkdir -p <workspace name>/src
-    " Paste both the packages in src directory "
+    " Paste both the packages in src directory (td3_pkg and velodyne_simulator "
     colcon build
     source install/setup.bash
     ```
