@@ -7,6 +7,7 @@ Reinforcement Learning, an evolving discipline, is primarily employed to accompl
 This video, shows the testing of the trained model, where it can be seen, the robot will go to the goal location denoted by Green Dot without colliding with obstacles.
 
 Testing Simulation : https://youtu.be/MAGf0qRb2nc
+
 Training Simulation : https://youtu.be/t24d_GHjucQ
 
 ![ezgif com-video-to-gif-converter (3)](https://github.com/tathya7/Reinforcement-Learning-based-Mobile-Robot-Navigation/assets/105652825/f9f4656e-c134-4c5c-ad87-14aeedfc152e)
