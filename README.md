@@ -14,7 +14,7 @@ This video, shows the testing of the trained model, where it can be seen, the ro
 
 1. Install Python 3.10, ROS2 Humble, Gazebo on Ubuntu 22.04
 
-2. Install all the dependencies like Pytorch, Tensorboard for the algorithm to run using:
+2. Install all the dependencies like Pytorch, Tensorboard , Quaternion for the algorithm to run using:
 
     ```
     pip install <dependency name>
