@@ -12,7 +12,7 @@ docker run hello-world
 
 ## Build image with docker file
 ```sh
-docker build . -t project4
+docker build . -t <container_name>
 ```
 
 ## Create a container
@@ -21,11 +21,6 @@ sudo chmod +x ./create_container.sh
 ./create_container.sh {container_name}
 ```
 
-If you have GPU
-
-```sh
-./create_container.sh {container_name} nvidia
-```
 
 
 ## Start a docker container
@@ -34,7 +29,7 @@ docker run {container_name}
 ```
 if that doesn't work:
 ```sh
-docker run project4
+docker run <container_name>
 docker start {container_name}
 ```
 ## Open a terminal
@@ -60,24 +55,8 @@ sudo apt install gazebo
 ```
 
 
-## Moveit Instalation
-```sh
-sudo apt install ros-humble-moveit
-```
-
-
 ## Install Dependencies
 ```sh
 rosedp update
 rosdep install -i --from-path src --rosdistro humble -y
 ```
-
-make wrokspace/src
-source ros / add to bashrc
-https://moveit.picknik.ai/humble/doc/tutorials/getting_started/getting_started.html
-
-use only the one folder
-
-sudo apt-get install ros-humble*controller*
-sudo apt-get install ros-humble*joint*state*
-
