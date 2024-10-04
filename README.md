@@ -1,3 +1,6 @@
+![CICD Workflow status](https://github.com/tathya7/Reinforcement-Learning-based-Mobile-Robot-Navigation-using-TD3/actions/workflows/try_CI.yml/badge.svg)
+
+
 # Mobile Robot Navigation using Twin Deep Delayed Deterministic Policy Gradient (TD3)
 
 Reinforcement Learning, an evolving discipline, is primarily employed to accomplish tasks by guiding the actions of a robot based on rewards received. In our project, we've endeavored to implement one such algorithm to train a mobile robot within a specific environment, aiming to reach a designated goal location over a set number of iterations. Subsequently, we evaluated the trained model's performance within the same environment. Our approach involved utilizing TD3, an off-policy algorithm, for this purpose.
@@ -69,5 +72,4 @@ Training Simulation : https://youtu.be/t24d_GHjucQ
 
 - Author of the referred repository - https://github.com/reiniscimurs/DRL-robot-navigation.git 
 
-![CICD Workflow status](https://github.com/tathya7/Reinforcement-Learning-based-Mobile-Robot-Navigation-using-TD3/actions/workflows/try_CI.yml/badge.svg)
 
