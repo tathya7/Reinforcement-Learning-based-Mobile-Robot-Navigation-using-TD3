@@ -69,3 +69,6 @@ Training Simulation : https://youtu.be/t24d_GHjucQ
 
 - Author of the referred repository - https://github.com/reiniscimurs/DRL-robot-navigation.git 
 
+![CICD Workflow status](https://github.com/tathya7/Reinforcement-Learning-based-Mobile-Robot-Navigation-using-TD3/edit/main/READ)
+![CICD Workflow status](https://github.com/TommyChangUMD/cpp-boilerplate-v2/actions/workflows/run-unit-test-and-upload-codecov.yml/badge.svg)
+
