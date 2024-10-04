@@ -1,5 +1,5 @@
 ![CICD Workflow status](https://github.com/tathya7/Reinforcement-Learning-based-Mobile-Robot-Navigation-using-TD3/actions/workflows/try_CI.yml/badge.svg)
-
+[![codecov](https://codecov.io/gh/tathya7/Reinforcement-Learning-based-Mobile-Robot-Navigation-using-TD3/graph/badge.svg?token=JBS7B94B57)](https://codecov.io/gh/tathya7/Reinforcement-Learning-based-Mobile-Robot-Navigation-using-TD3)
 
 # Mobile Robot Navigation using Twin Deep Delayed Deterministic Policy Gradient (TD3)
 
