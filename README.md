@@ -1,5 +1,3 @@
-![CICD Workflow status](https://github.com/tathya7/Reinforcement-Learning-based-Mobile-Robot-Navigation-using-TD3/actions/workflows/try_CI.yml/badge.svg)
-[![codecov](https://codecov.io/gh/tathya7/Reinforcement-Learning-based-Mobile-Robot-Navigation-using-TD3/graph/badge.svg?token=JBS7B94B57)](https://codecov.io/gh/tathya7/Reinforcement-Learning-based-Mobile-Robot-Navigation-using-TD3)
 
 # Mobile Robot Navigation using Twin Deep Delayed Deterministic Policy Gradient (TD3)
 
@@ -66,10 +64,5 @@ Training Simulation : https://youtu.be/t24d_GHjucQ
     ```
 
 - If you don't have a suitable version of ROS, this may or may not run and so it is advisable to use the docker container and clone the repository inside the container.
-
-
-### Credits
-
-- Author of the referred repository - https://github.com/reiniscimurs/DRL-robot-navigation.git 
 
 
